@@ -21,4 +21,4 @@ ssh-agent@v0.5.3
 
       - name: Deploy to Xserver
         run: |
-          rsync -avz --delete --exclude '.git/' --exclude '.github/' ./ lidgee@sv10347.xserver.jp:koinu-step.com/public_html/ --quiet
+          rsync -avz --delete --exclude '.git/' --exclude '.github/' ./ lidgee@sv10347.xserver.jp:/home/lidgee/koinu-step.com/public_html/ --quiet
