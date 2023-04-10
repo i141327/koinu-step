@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (max-width:767px){
+
+
+
+.container {
+	width:100%;
+     padding-right: 0px;
+     padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#banner{ width:100%;}
+
+.PCnone{
+		display:block;
+	}
+.SPnone{
+		display:none;
+	}
+.img100{ width:100%;}
+
+#box-1,#box-2,#box-3,#box-4,#box-5{
+ width:100%;
+
+ }
+
+
+/*#main-banner{
+	background:url(../images/main-bg-s.jpg) no-repeat  center center;
+	display: table;
+	width:100%;
+	height: auto;
+    position: relative;
+	background-size:cover;
+
+	}*/
+
+
+.top-marigin{ margin-top:20px;}
+
+
+body .btn_area .btn_01, body .btn_area .btn_02 {
+    font-size: 25px;
+    border-radius: 15px;
+    line-height: 1.2;
+    padding: 0.3rem 0 0.5rem 0;
+    margin: 0 0.3rem;
+    /* float: left; */
+    display: block;
+    width: 50%;
+}
+
+body .btn_area .btn_01 span, body .btn_area .btn_02 span {
+    font-size: 16px;
+}
+
+body .btn_area {
+    text-align: center;
+    padding-bottom: 4px;
+	/* padding-left: 16px;
+	padding-right: 16px; */
+    overflow: hidden;
+}
+
+body .btn_area p {
+    font-size: 14px;
+}
+
+#page-top a {
+	z-index:100;
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    display: block;
+	float:right;
+	background: url(../images/icon_pagetop.png) no-repeat top right;
+    background-size: 100% 100%;
+}
+
+
+body #footer {
+    margin: 54px 0 0 0;
+}
+
+}

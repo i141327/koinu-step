@@ -1,0 +1,108 @@
+@charset "UTF-8";
+/**********************/
+/*ie9
+
+/**********************/
+body .btn_01, body .btn_01:hover, body .btn_02, body .btn_02:hover, body .btn_03, body .btn_03:hover, body .btn_05, body .btn_05:hover {
+  filter: none;
+}
+
+body #header ul li {
+  padding: 1.9rem 0 0 1.5rem;
+}
+
+._c-media--reverse ._c-media__figure {
+  float: right;
+}
+
+._c-media--reverse > ._c-media__body {
+  float: none;
+}
+
+body .contact ._c-row__col--1-5, body .legal ._c-row__col--1-5 {
+  float: left;
+  font-size: 14px;
+}
+
+body .contact ._c-row__col--4-5, body .legal ._c-row__col--4-5 {
+  padding: 1.5rem;
+}
+
+body .contact .content textarea {
+  height: 200px;
+}
+
+button, input, select, textarea {
+  font: normal 14px 'Hiragino Maru Gothic Pro', 'ヒラギノ丸ゴ Pro W4', 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'Meiryo', 'メイリオ', 'Osaka', 'MS PGothic', arial, helvetica, sans-serif;
+}
+
+body #box10 .c-dummy-image .img_instagram01 {
+  right: -160px;
+}
+
+body #box10 .c-dummy-image .img_instagram02 {
+  right: -108px;
+}
+
+body #box11 #instafeed li {
+  width: 170px;
+  height: 170px;
+}
+
+body #header ul li {
+  font-size: 14px;
+}
+@charset "UTF-8";
+/**********************/
+/*ie9
+
+/**********************/
+body .btn_01, body .btn_01:hover, body .btn_02, body .btn_02:hover, body .btn_03, body .btn_03:hover, body .btn_05, body .btn_05:hover {
+  filter: none;
+}
+
+body #header ul li {
+  padding: 1.9rem 0 0 1.5rem;
+}
+
+._c-media--reverse ._c-media__figure {
+  float: right;
+}
+
+._c-media--reverse > ._c-media__body {
+  float: none;
+}
+
+body .contact ._c-row__col--1-5, body .legal ._c-row__col--1-5 {
+  float: left;
+  font-size: 14px;
+}
+
+body .contact ._c-row__col--4-5, body .legal ._c-row__col--4-5 {
+  padding: 1.5rem;
+}
+
+body .contact .content textarea {
+  height: 200px;
+}
+
+button, input, select, textarea {
+  font: normal 14px 'Hiragino Maru Gothic Pro', 'ヒラギノ丸ゴ Pro W4', 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'Meiryo', 'メイリオ', 'Osaka', 'MS PGothic', arial, helvetica, sans-serif;
+}
+
+body #box10 .c-dummy-image .img_instagram01 {
+  right: -160px;
+}
+
+body #box10 .c-dummy-image .img_instagram02 {
+  right: -108px;
+}
+
+body #box11 #instafeed li {
+  width: 170px;
+  height: 170px;
+}
+
+body #header ul li {
+  font-size: 14px;
+}

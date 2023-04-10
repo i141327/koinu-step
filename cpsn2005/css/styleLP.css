@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+.lpStyle_box01 {
+	padding: 10px;
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+.lpStyle_boxright {
+	text-align: right;
+}
+
+.lpStyle_boxleft {
+	text-align: left;
+}
+
+.lpStyle_ttl01 {
+	background: #FDD500;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	padding: 20px 0 20px;
+}
+
+.lpStyle_underline {
+  border-bottom: solid 3px #FF5C00;
+  font-weight: bold;
+}
+
+/* margin padding */
+
+.lpStyle_mtb01 {
+	margin: 10px 0 10px;
+}
+
+.lpStyle_mt01 {
+	margin: 10px 0 0 0;
+}
+
+.lpStyle_mb01 {
+	margin: 0 0 10px 0;
+}
+
+.lpStyle_mb02 {
+	margin: 0 0 20px 0;
+}
